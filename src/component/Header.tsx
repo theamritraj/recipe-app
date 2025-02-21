@@ -42,4 +42,4 @@ const Header: React.FC<HeaderProps> = ({ onSearch, onHomeClick }) => {
   )
 }
 
-export default Header
+export default Header;
